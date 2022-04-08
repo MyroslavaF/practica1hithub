@@ -5,7 +5,9 @@ import java.util.Scanner;
  * @author R
  *
  */
+//AQUI ESTOY CAMBIANDO EL FICHERO NOTAS.JAVA
 
+//AQUI ESTOY CAMBIANDO PARA GITHUB
 public class notas {
     /**Variables de instancia de ufs*/
     double uf1, uf2, uf3;
